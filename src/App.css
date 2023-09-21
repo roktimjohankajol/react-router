@@ -4,3 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+.active{
+  background-color: red;
+  color: #fff;
+  padding: 0 10px;
+  border-radius: 5px;
+}
